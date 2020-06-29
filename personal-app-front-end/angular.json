@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "personal-app-front-end"
+    }
+  },
+  "defaultProject": "personal-app-front-end",
+  "cli": {
+    "analytics": false
+  }
 }
